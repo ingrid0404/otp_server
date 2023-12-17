@@ -1,12 +1,3 @@
-
-### Usage:
-
-Use an API testing tool, for example Postman or Insomnia
-
-`api1/v1/email/otp`
-
-![image](https://github.com/ingrid0404/otp_server/assets/113686835/3189b31e-5e0e-4649-8845-dbe40de7eeeb)
-
 ## One Time Password Server
 
 ### Description
@@ -23,4 +14,13 @@ The purpose of this application is to generated One Time Passwords based on user
 6. Edit file `emailService/utils.js` with an email address that will be used as a SMTP server
 7. Run `npm install` to install all the dependencies
 8. Run `npm start` to start the application
+
+
+### Usage:
+
+Use an API testing tool, for example Postman or Insomnia
+
+`api1/v1/email/otp`
+
+![image](https://github.com/ingrid0404/otp_server/assets/113686835/3189b31e-5e0e-4649-8845-dbe40de7eeeb)
 

@@ -4,6 +4,8 @@
 
 The purpose of this application is to generated One Time Passwords based on user email.
 
+Application was build with: Express, Sequelize, email-validator, nodemailer, mysql2.
+
 Check also the UI project [One Time Password UI](https://github.com/ingrid0404/otp-fe)
 
 ## Installation and Setup Instructions

@@ -15,6 +15,8 @@ The purpose of this application is to generated One Time Passwords based on user
 Use an API testing tool, for example Postman or Insomnia
 
 `api1/v1/email/otp`
-![image](https://github.com/ingrid0404/otp_server/assets/113686835/eebb945a-eb73-43d4-9758-ec2f9315441e)
+
+![image](https://github.com/ingrid0404/otp_server/assets/113686835/3189b31e-5e0e-4649-8845-dbe40de7eeeb)
+
 
 

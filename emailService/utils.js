@@ -5,7 +5,7 @@ const createTransporter = () => {
         port: 465,
         host: "smtp.gmail.com",
         auth: {
-                user: 'dianaingridtakacs@gmail.com',
+                user: 'custom@gmail.com',
                 pass: 'jciu suim noey curg',
             },
         secure: true,

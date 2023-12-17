@@ -4,6 +4,8 @@
 
 The purpose of this application is to generated One Time Passwords based on user email.
 
+Check also the UI project [One Time Password UI](https://github.com/ingrid0404/otp-fe)
+
 ## Installation and Setup Instructions
 
 ### Installation:
@@ -24,5 +26,5 @@ Use an API testing tool, for example Postman or Insomnia
 
 ![image](https://github.com/ingrid0404/otp_server/assets/113686835/3189b31e-5e0e-4649-8845-dbe40de7eeeb)
 
-Check also the UI project [One Time Password UI](https://github.com/ingrid0404/otp-fe)
+
 

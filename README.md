@@ -1,5 +1,5 @@
 Description:
-The purpose of this application is to generated One Time Passwords by user email.
+The purpose of this application is to generated One Time Passwords based on user email.
 
 Installation:
 1. Make sure to have node and npm installed
